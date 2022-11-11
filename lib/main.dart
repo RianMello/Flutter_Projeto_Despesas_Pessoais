@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
       id: "#1",
       date: DateTime.now(),
       title: "Divida #1",
-      value: 450.0,
+      value: 400.0,
     )
   ];
   bool _showChart = false;
